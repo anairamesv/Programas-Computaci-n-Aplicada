@@ -3,14 +3,9 @@
 - Mariana Edith Saucedo Vázquez
 - anairamesv@gmail.com
 
-## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
-
 ## Actividad 2
-- Programa 4
-- Programa 5
-## Actividad 3
-- Programa 6
-- Programa 7
+- p001-hola-mundo
+- p002-area-circulo
+- p003-area-triangulo
+- p004-paga-trabajador
+
