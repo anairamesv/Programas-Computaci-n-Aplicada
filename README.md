@@ -42,3 +42,14 @@
 - p026-numeros-romanos
 - p027-calculo-de-notas
 - p028-aceptar-estudiante-v2
+
+## Actividad 6
+- p29-numeros-1-100-1
+- p29-numeros-1-100-2
+- p29-numeros-1-100-3
+- p30-numeros-100-1-1
+- p30-numeros-100-1-2
+- p30-numeros-100-1-3
+- p31-numeros-1-200-1
+- p32-numeros-suma-100
+- p33-conteo-numeros
