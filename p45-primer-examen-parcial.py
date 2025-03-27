@@ -12,7 +12,7 @@ while(True):
     c=int(input('Cantidad de boletos: '))
     s=0
     t=0
-    
+
     if u==1 and p==1:
         e=100
         con=600
