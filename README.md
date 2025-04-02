@@ -71,3 +71,12 @@
 
 ## Examen 1
 - p45-primer-examen-parcial
+
+## Actividad 8
+- p46-numeros-1-100
+- p47-numeros-100-1
+- p048-arriba-abajo
+- p049-suma-pares-impares
+- p050-suma-numeros
+- p051-multiplos-suma
+- p052-base-exp
