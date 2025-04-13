@@ -109,3 +109,11 @@
 - p071-dia-paga
 - p072-nombres-edades
 - p073-listas-aleatorios
+
+## Tarea 5
+- p074-procesar-notas
+- p075-listas-multiplica
+- p076-mes-dia-nombre
+- p077-listas-aleatorios-suma
+- p078-ciudades
+- p079-lista-impares
