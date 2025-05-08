@@ -11,7 +11,7 @@ print(f'Los autos: {autos}-{len(autos)}')
 autos.append({'marca':'honda', 'modelo':'cvr', 'año':2025},)
 print(f'Los autos: {autos}-{len(autos)}')
 
-#iterar por cada elementoo de la lista e imprimir cada uno de los diccionarios que la conforman
+#iterar por cada elemento de la lista e imprimir cada uno de los diccionarios que la conforman
 print('Los elementos (diccionarios) individuales que contiene la lista')
 for auto in autos:
     print(auto)
