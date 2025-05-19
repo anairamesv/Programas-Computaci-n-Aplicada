@@ -139,3 +139,7 @@
 - p093-eliminar-diccionario
 - p094-procesar-diccionario
 - p095-contar-caracteres
+
+## Actividad 14
+- p096–trabajando-conjuntos
+- p097-operaciones-conjuntos
